@@ -1,3 +1,3 @@
 # test-repo
 My first commit
-Author - Sam
+Author - Samim Molla
